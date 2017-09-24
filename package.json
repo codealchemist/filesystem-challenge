@@ -1,0 +1,16 @@
+{
+  "name": "filesystem-challenge",
+  "version": "1.0.0",
+  "description": "NodeJS filesystem challenge.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "nodejs",
+    "filesystem",
+    "challenge"
+  ],
+  "author": "Alberto Miranda",
+  "license": "MIT"
+}
